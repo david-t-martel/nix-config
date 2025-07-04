@@ -1,4 +1,4 @@
-# Josh Symonds' Nix Configuration
+# David Martel's Nix Configuration (forked from Josh Symonds, to be updated for Windows/WSL)
 
 This repository contains my personal Nix configuration for managing my Mac laptop and Linux home servers using a declarative, reproducible approach with Nix flakes.
 
